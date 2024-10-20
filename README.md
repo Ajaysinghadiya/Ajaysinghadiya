@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Ajay Singhadiya</h1>
 <h3 align="center">Software Enthusiast | Exploring Code from Frontend to Backend</h3>
 

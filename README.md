@@ -1,32 +1,74 @@
+<h1 align="center">Hey, I'm Ajay 👋</h1>
+<h3 align="center">AI Automation Builder • Founder @ <a href="https://operateai.in">OperateAI</a></h3>
 
-<h1 align="center">Hi 👋, I'm Ajay Singhadiya</h1>
-<h3 align="center">Software Enthusiast | Exploring Code from Frontend to Backend</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaysinghadiya&label=Profile%20views&color=0e75b6&style=flat" alt="ajaysinghadiya" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajaysinghadiya" alt="ajaysinghadiya" /></a> </p>
-
-- 🔭 I’m currently working on **Wings for women**
-
-- 🌱 I’m currently learning **Java, ReactJS.**
-
-- 📫 How to reach me **ajaysinghadiya28@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ajay-singhadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-singhadiya" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ajay_singhadiy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ajay_singhadiy" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ajaysinghadiya28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ajaysinghadiya28" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ajay_singhadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajay_singhadiya" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/ajaysinghadiya28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/ajaysinghadiya28/" height="30" width="40" /></a>
+<p align="center">
+  I build AI-powered systems that turn repetitive work into reliable automation.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaysinghadiya&show_icons=true&locale=en&layout=compact" alt="ajaysinghadiya" /></p>
+## About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajaysinghadiya&show_icons=true&locale=en" alt="ajaysinghadiya" /></p>
+- Founder of **[OperateAI](https://operateai.in)**, where I help B2B SMBs and founders streamline operations with AI automation
+- I build **n8n workflows, AI agents, lead systems, and internal tools**
+- I combine **code, design, and automation thinking** to create practical systems that save time
+- Currently focused on **AI implementation, workflow automation, and content systems**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaysinghadiya&" alt="ajaysinghadiya" /></p>
+---
 
+## What I'm Building
+
+- **AI automation systems** for founders and SMBs
+- **Lead capture and follow-up workflows**
+- **Internal AI tools** for content, operations, and execution
+- **Experiments with AI agents, backends, and automations**
+
+---
+
+## Tech Stack
+
+### Automation
+n8n • Make • Zapier • Webhooks • APIs
+
+### AI / Backend
+OpenAI • Claude • Node.js • Python • Express
+
+### Frontend
+React • Next.js • Tailwind CSS • HTML • CSS • JavaScript
+
+### Tools / Platforms
+GitHub • Vercel • Appwrite • MongoDB • MySQL
+
+---
+
+## Featured Work
+
+- **OperateAI** – AI automation systems for B2B SMBs
+- **MyAI** – AI assistant experiments and workflows
+- **hindi-reels-engine** – AI-assisted content workflow experiments
+
+> I share public experiments here, while a lot of client work remains private.
+
+---
+
+## Connect
+
+- 🌐 Website: [operateai.in](https://operateai.in)
+- 💼 LinkedIn: [Ajay Singhadiya](https://www.linkedin.com/in/ajay-singhadiya-1a4a75216)
+- 📬 Email: ajaysinghadiya28@gmail.com
+
+---
+
+## GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaysinghadiya&show_icons=true&locale=en&layout=compact" alt="Top languages" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ajaysinghadiya&show_icons=true&locale=en" alt="GitHub stats" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaysinghadiya" alt="GitHub streak" />
+</p>

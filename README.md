@@ -1,74 +1,65 @@
-<h1 align="center">Hey, I'm Ajay 👋</h1>
-<h3 align="center">AI Automation Builder • Founder @ <a href="https://operateai.in">OperateAI</a></h3>
+<h1 align="left">Hey, I'm Ajay Singhadiya</h1>
 
-<p align="center">
-  I build AI-powered systems that turn repetitive work into reliable automation.
+<p align="left">
+Founder of <strong>OperateAI</strong> — I build AI automations, agents, and internal tools that help SMBs and founders save time, streamline operations, and scale faster.
+</p>
+
+<p align="left">
+I work across n8n, LLM APIs, backend workflows, automation systems, and lightweight product builds to turn repetitive business work into reliable systems.
 </p>
 
 ---
 
-## About Me
+## What I build
 
-- Founder of **[OperateAI](https://operateai.in)**, where I help B2B SMBs and founders streamline operations with AI automation
-- I build **n8n workflows, AI agents, lead systems, and internal tools**
-- I combine **code, design, and automation thinking** to create practical systems that save time
-- Currently focused on **AI implementation, workflow automation, and content systems**
+- AI automation systems for daily business operations
+- AI agents for support, lead qualification, and internal workflows
+- Content and outreach engines powered by APIs and automations
+- Lightweight tools and interfaces for founders and growing teams
 
----
+## Current focus
 
-## What I'm Building
+- Building practical AI systems through **OperateAI**
+- Creating automation workflows with n8n and API integrations
+- Exploring agentic systems, workflow orchestration, and content automation
+- Shipping projects that are useful, fast, and business-oriented
 
-- **AI automation systems** for founders and SMBs
-- **Lead capture and follow-up workflows**
-- **Internal AI tools** for content, operations, and execution
-- **Experiments with AI agents, backends, and automations**
+## Featured work
 
----
+### OperateAI
+My core brand and direction — focused on building useful AI systems and automation workflows for real business use cases.
 
-## Tech Stack
+### MyAI
+An AI-focused build that reflects my interest in practical assistants, workflows, and productized AI experiences.
 
-### Automation
-n8n • Make • Zapier • Webhooks • APIs
+### Hindi Reels Engine
+A content automation-focused project that connects AI, media workflows, and execution systems.
 
-### AI / Backend
-OpenAI • Claude • Node.js • Python • Express
+## Tech stack
 
-### Frontend
-React • Next.js • Tailwind CSS • HTML • CSS • JavaScript
+**Automation & AI**  
+n8n, OpenAI, Claude, Gemini, Prompt Engineering, AI Agents
 
-### Tools / Platforms
-GitHub • Vercel • Appwrite • MongoDB • MySQL
+**Backend & Logic**  
+Python, JavaScript, APIs, Webhooks, Workflow Design
 
----
-
-## Featured Work
-
-- **OperateAI** – AI automation systems for B2B SMBs
-- **MyAI** – AI assistant experiments and workflows
-- **hindi-reels-engine** – AI-assisted content workflow experiments
-
-> I share public experiments here, while a lot of client work remains private.
-
----
+**Frontend & Product**  
+HTML, CSS, JavaScript, GitHub, Vercel
 
 ## Connect
 
-- 🌐 Website: [operateai.in](https://operateai.in)
-- 💼 LinkedIn: [Ajay Singhadiya](https://www.linkedin.com/in/ajay-singhadiya-1a4a75216)
-- 📬 Email: ajaysinghadiya28@gmail.com
+- Website: [OperateAI](https://www.operateai.in)
+- LinkedIn: [Ajay Singhadiya](https://www.linkedin.com/in/ajay-singhadiya-1a4a75216/)
+- X / Twitter: [@Ajaysinghadiya](https://x.com/Ajaysinghadiya)
 
 ---
 
-## GitHub Stats
+## GitHub stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaysinghadiya&show_icons=true&locale=en&layout=compact" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ajaysinghadiya&show_icons=true&theme=transparent" alt="GitHub stats" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ajaysinghadiya&show_icons=true&locale=en" alt="GitHub stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaysinghadiya" alt="GitHub streak" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaysinghadiya&layout=compact&theme=transparent" alt="Top languages" />
 </p>

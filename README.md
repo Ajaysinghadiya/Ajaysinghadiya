@@ -50,7 +50,7 @@ HTML, CSS, JavaScript, GitHub, Vercel
 
 - Website: [OperateAI](https://www.operateai.in)
 - LinkedIn: [Ajay Singhadiya](https://www.linkedin.com/in/ajay-singhadiya-1a4a75216/)
-- X / Twitter: [@Ajaysinghadiya](https://x.com/Ajaysinghadiya)
+- X / Twitter: [@Ajaysinghadiya](https://x.com/Ajaysinghadiya8)
 
 ---
 
